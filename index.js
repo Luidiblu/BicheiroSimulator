@@ -110,7 +110,7 @@ async function winner() {
 
     console.log(
       chalk.green(
-        'Obrigado por jogar meu RPG de Bicheiro ~~ Diego Pisani'
+        'Obrigado por jogar meu RPG de Bicheiro ~~ Luidiblu'
       )
     );
     process.exit(0);
